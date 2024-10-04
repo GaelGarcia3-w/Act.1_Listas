@@ -21,6 +21,10 @@ print("El precio menor es :", lista [2])#El texto menor se imprime en la pantall
 
 print(" ")
 
+![image](https://github.com/user-attachments/assets/1ef1908d-2783-4057-ae29-2dc00e21f485)
+
+![image](https://github.com/user-attachments/assets/e9fb4e36-a4b2-4245-a31e-a721b90038b1)
+
 # 2-Materias
 
 Lista2 = ["Pensamiento matematico","español","Inglés","Civica y etica","Programación"]#Una lista con las diferentes materias
@@ -52,6 +56,10 @@ print(" ")
 Math = float(input("Introduce la calificación de Pensamiento matematico :"))#Te pide introducir la calificación de la materia
 
 print(" ")
+
+![image](https://github.com/user-attachments/assets/58ae517c-2a68-4b45-8a24-744a7c545980)
+
+![image](https://github.com/user-attachments/assets/0122c92e-948a-4a9d-80d0-f086baaf6e2b)
 
 # 3-Calificaciones.
 
@@ -91,6 +99,10 @@ print("La calificación  de",Lista2 [4],"es :",Pro)#Se imprime el texto pidiendo
 
 print(" ")
 
+![image](https://github.com/user-attachments/assets/62a3b224-93d5-47ef-ac3d-ecc5a06996c7)
+
+
+
 # 4-Sorteo.
 
 Win1 =int(input("Ingresa el numero del primer ganador :"))#Te pide ingresar el numero de uno de los ganadores.
@@ -120,3 +132,9 @@ Lista3.count
 print(Lista3)
 
 print(" ")
+
+![image](https://github.com/user-attachments/assets/96815eaf-92d4-495e-9559-8f94f9b95d3e)
+
+![image](https://github.com/user-attachments/assets/cdf8c332-ba4b-46ec-a5b2-c15b0555f0c2)
+
+
