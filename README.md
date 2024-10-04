@@ -99,9 +99,9 @@ print("La calificación  de",Lista2 [4],"es :",Pro)#Se imprime el texto pidiendo
 
 print(" ")
 
+![image](https://github.com/user-attachments/assets/1075c272-1be3-4daf-b766-02ce17781a4e)
+
 ![image](https://github.com/user-attachments/assets/62a3b224-93d5-47ef-ac3d-ecc5a06996c7)
-
-
 
 # 4-Sorteo.
 
