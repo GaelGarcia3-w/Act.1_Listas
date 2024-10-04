@@ -10,7 +10,7 @@ print(" ")
 print("El precio mayor es :",lista [5])#El precio mayor se imprime en la pantalla
 print("El precio menor es :", lista [2])#El texto menor se imprime en la pantalla
 print(" ")
-#2-Materias
+# 2-Materias
 Lista2 = ["Pensamiento matematico","español","Inglés","Civica y etica","Programación"]#Una lista con las diferentes materias
 print(Lista2)#Para que se imprima la lista con las materias
 print(" ")
@@ -26,7 +26,7 @@ print("Estoy cursando", Lista2 [4])#Se imprime la palabra estoy cursando con la 
 print(" ")
 Math = float(input("Introduce la calificación de Pensamiento matematico :"))#Te pide introducir la calificación de la materia
 print(" ")
-#3-Calificaciones.
+# 3-Calificaciones.
 Esp = float(input("Introduce la calificación de Español :"))#Te pide introducir la calificación de la materia
 print(" ")
 Ing = float(input("Introduce la calificación de Ingles :"))#Te pide introducir la calificación de la materia
@@ -46,7 +46,7 @@ print("La calificación de",Lista2 [3],"es :",Cye)#Se imprime el texto pidiendot
 print(" ")
 print("La calificación  de",Lista2 [4],"es :",Pro)#Se imprime el texto pidiendote la calificación de la materia
 print(" ")
-#4-Sorteo.
+# 4-Sorteo.
 Win1 =int(input("Ingresa el numero del primer ganador :"))#Te pide ingresar el numero de uno de los ganadores.
 print(" ")
 Win2 =int(input("Ingresa el numero del segundo ganador :"))#Te pide ingresar el numero de uno de los ganadores.
